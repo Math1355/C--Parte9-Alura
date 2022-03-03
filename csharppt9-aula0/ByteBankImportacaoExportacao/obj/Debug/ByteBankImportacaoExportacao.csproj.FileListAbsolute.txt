@@ -1,0 +1,7 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-9-Entrada e saida (I-O) com streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
